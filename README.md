@@ -2,7 +2,7 @@
 A custom 64 keyboard
 PCB From TaoBao
 
-## Features:
+### Features:
 - 64 Key layout
 - Kailh Hotswap Sockets
 - Per-key RGB Backlighting (64 SMD)
