@@ -4,7 +4,8 @@ PCB From TaoBao
 
 ### Features:
 - 64 Key layout
-- Kailh Hotswap Sockets
+- Hotswappable Sockets (Kailh)
 - Per-key RGB Backlighting (64 SMD)
 - Underglow (16)
-- QMK Support with ATMega32u4
+- QMK Support with ATMega32u4 Chip
+- Expandable
